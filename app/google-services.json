@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461869034902",
+    "project_id": "mygenie-683d0",
+    "storage_bucket": "mygenie-683d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461869034902:android:ff7df1fe403ec3fe5b01b7",
+        "android_client_info": {
+          "package_name": "com.flightpath.mygenie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkwALL_7Zo6MGDgH3K2VVc0Ue7g2L5a-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
